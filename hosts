@@ -1,0 +1,53 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+104.16.59.5 discordapp.com
+104.16.58.5 discordapp.com
+104.16.9.231 cdn.discordapp.com
+104.16.10.231 cdn.discordapp.com
+104.16.11.231 cdn.discordapp.com
+104.16.12.231 cdn.discordapp.com
+104.16.13.231 cdn.discordapp.com
+104.16.247.144 dl.discordapp.net
+104.16.248.144 dl.discordapp.net
+104.16.249.144 dl.discordapp.net
+104.16.250.144 dl.discordapp.net
+104.16.251.144 dl.discordapp.net
+104.16.248.144    dl.discordapp.net
+104.16.60.37   gateway.discord.gg
+104.16.11.231  status.discordapp.com
+104.16.9.231    cdn.discordapp.com
+104.16.59.5  discordapp.com
+104.16.250.144 media.discordapp.net
+104.16.249.144 images-ext-2.discordapp.net
+104.16.250.144 images-ext-1.discordapp.net
+151.101.78.214  static-cdn.jtvnw.net
+202.189.132.34 steamdb.steamcn.com
+113.171.235.3 cdn.steamstatic.com.8686c.com
+113.171.235.3 cdn.akamai.steamstatic.com.8686c.com
+113.171.234.65 cdn.akamai.steamstatic.com
+113.171.234.8 store.akamai.steamstatic.com
+182.162.106.16 cloud-3.steamusercontent.com
+118.215.176.59 partner.steamgames.com
+103.86.70.254 steamclouduseast.blob.core.windows.net
+103.86.70.254 steamcloudhk.blob.core.windows.net
+103.86.70.254 steamcloudsg.blob.core.windows.net
+103.86.70.254 steamcloudseoul.blob.core.windows.net
